@@ -1,0 +1,16 @@
+{
+  "name": "Kühne Kira: Abenteuer im Mooswald",
+  "short_name": "Kühne Kira",
+  "description": "Jump'n'Run mit der Füchsin Kira. Version 1.1, Stand 05.11.2026, Christian Stephan.",
+  "lang": "de",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#121a10",
+  "theme_color": "#24331f",
+  "icons": [
+    { "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
